@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Insight Media\Cafe Client]
+"Virtual Desktop Monitor Enabled"="1"
